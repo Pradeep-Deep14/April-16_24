@@ -4,3 +4,7 @@ def check_holiday(day):
     return "Workday"
 today="Monday"
 print(check_holiday(today))
+
+
+#corrected code
+#day
